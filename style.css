@@ -4,7 +4,11 @@
 /* font-family: 'Grand Hotel', cursive; */
 
 body{
-    background: linear-gradient(to right,#c54b8c,#da3287);
+/*     background: linear-gradient(to right,#c54b8c,#da3287); */
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+    background-repeat:no-repeat;
+
 }
 h2{
    font-family: 'Grand Hotel', cursive; 
