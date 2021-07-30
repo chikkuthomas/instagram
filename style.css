@@ -36,7 +36,7 @@ h6 {
  } 
  
  h6 small { 
-     background: #da3b8a; 
+     background: #784BA0; 
      padding:0 10px;
      color: white; 
  }
@@ -50,7 +50,9 @@ h6 {
      color:whitesmoke;
  }
 .footer{
-    background-color: #c5549088;
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+
 }
 #ho:hover{
    color: rgb(241, 16, 193);
@@ -58,4 +60,5 @@ h6 {
 }
 button:hover{
     background-color:rgb(231, 24, 121) ;
+    background-repeat:no-repeat;
 }
